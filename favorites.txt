@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Paneer
 Fried Rice
 Gobhi
-=======
 The Kashmir Files
 Sherdil
 Iron Man
->>>>>>> movies
